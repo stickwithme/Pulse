@@ -1,0 +1,26 @@
+@media (max-width: 575px) {
+  .header__phone {
+    font-size: 17px;
+  }
+  .header__official {
+    display: none;
+  }
+  .promo__wrapper {
+    align-items: center;
+  }
+  .advantages__menu {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 767px) {
+  .promo__wrapper {
+    align-items: center;
+  }
+}
+
+@media (max-width: 991px) {
+  .promo__wrapper {
+    align-items: center;
+  }
+}
